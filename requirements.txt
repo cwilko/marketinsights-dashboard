@@ -1,0 +1,8 @@
+dash[celery,diskcache]<=2.6.2
+numpy>=1.14.3,<=1.19.5
+pandas>=0.23.4,<=1.1.5
+dash-bootstrap-templates<=2.1.2
+dash-html-template @ git+https://github.com/masdeseiscaracteres/dash-html-template.git
+redis<=4.5.1
+python-redis-cache<=1.2.0
+plotly<=5.13.1
